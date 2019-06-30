@@ -54,7 +54,12 @@
   background: rgba(0,0,0, 0.3);
 }
 
-.search-address.search-cnae .v-chip .v-chip__content  {
-  white-space: normal;
-  display: block; overflow: hidden; text-overflow: ellipsis;
+
+
+.list-addresses .v-list__tile {
+  height: initial;
+}
+
+.v-input--is-label-active.search-address.list-addresses.v-text-field .v-select__selections > input {
+    /*display: none;*/
 }

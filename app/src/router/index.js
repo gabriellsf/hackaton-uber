@@ -7,6 +7,8 @@ import Favorites from '@/pages/Favorites'
 import Riders from '@/pages/Riders'
 import DriverProfile from '@/pages/DriverProfile'
 import Destination from '@/pages/Destination'
+import Schedules from '@/pages/Schedules'
+import EstimatePrice from '@/pages/EstimatePrice'
 
 Vue.use(VueRouter)
 const router = new VueRouter({
@@ -49,7 +51,6 @@ const router = new VueRouter({
       props: true
     },
 
-
     {
       name: 'destination',
       path: '/destination',
@@ -60,6 +61,25 @@ const router = new VueRouter({
       props: true
     },
 
+    {
+      name: 'schedules',
+      path: '/schedules',
+      component: Schedules,
+      meta: {
+        title: 'Defina a sua rotina',
+      },
+      props: true
+    },
+
+    {
+      name: 'estimate-price',
+      path: '/estimate-price',
+      component: EstimatePrice,
+      meta: {
+        title: 'Descubra o valor',
+      },
+      props: true
+    },
     // { path: '*', redirect: '/login' }
   ]
 })

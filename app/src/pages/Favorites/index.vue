@@ -97,14 +97,6 @@ export default {
     }
   },
 
-  created() {
-
-  },
-
-  watch: {
-
-  },
-
   computed: {
     entries() {
       return ([]).concat(this.places)
@@ -146,10 +138,10 @@ export default {
         }})
 
         this.loading = false
-        this.$message({
-          type: 'error',
-          message: ErrorMessage(err),
-        }) 
+        // this.$message({
+        //   type: 'error',
+        //   message: ErrorMessage(err),
+        // }) 
       }
     },
 

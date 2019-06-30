@@ -61,7 +61,7 @@ export default {
 
   methods: {
     setDestination() {
-      this.$router.push({ name: 'destination'})
+      this.$router.push({ name: 'destination', params: { driver: this.driver }})
     }
   }
 }
