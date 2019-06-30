@@ -61,7 +61,7 @@ def favoritos():
             motorista["mongo_id"] = motorista["_id"] 
             motoristas.insert_one(motorista)
             del motorista["_id"]
-            es.index(index="motorista", doc_type='doc', id=uuid.uuid4().hex, body=motorista)
+            es.index(index="motorista", doc_type='doc_motorista', id=uuid.uuid4().hex, body=motorista)
 
         clientes = db.cliente
         cliente = clientes.find_one({"cliente_empresa_id":req['cliente_empresa_id']})
@@ -77,7 +77,7 @@ def favoritos():
             cliente["mongo_id"] = cliente["_id"] 
             clientes.insert_one(cliente)
             del cliente["_id"]
-            es.index(index="cliente", doc_type='doc', id=uuid.uuid4().hex, body=cliente)
+            es.index(index="cliente", doc_type='doc_cliente', id=uuid.uuid4().hex, body=cliente)
 
         favorito = {
             "_id" : uuid.uuid4().hex,
@@ -91,7 +91,7 @@ def favoritos():
         favorito["mongo_id"] = favorito["_id"] 
         favoritos.insert_one(favorito)
         del favorito["_id"]
-        es.index(index="favorito", doc_type='doc', id=uuid.uuid4().hex, body=favorito)
+        es.index(index="favorito", doc_type='doc_favorito', id=uuid.uuid4().hex, body=favorito)
 
     return jsonify(menssagem={"sucesso":"true"}) 
 
@@ -121,7 +121,7 @@ def agendar():
     agendamento["mongo_id"] = agendamento["_id"]
     agendamentos.insert_one(agendamento) 
     del agendamento["_id"]
-    es.index(index="agendamento", doc_type='doc', id=uuid.uuid4().hex, body=agendamento)
+    es.index(index="agendamento", doc_type='doc_agendamento', id=uuid.uuid4().hex, body=agendamento)
 
     return jsonify(menssagem={"sucesso":"true"}) 
 
@@ -157,7 +157,7 @@ def geraViagensRecentes():
     },
     {
         "id": "6",
-        "name": "Luana Freire",
+        "name": "Luana Ramos",
         "photo": "https://randomuser.me/api/portraits/women/62.jpg",
     }
   ]
