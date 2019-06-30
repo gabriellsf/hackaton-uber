@@ -1,0 +1,3344 @@
+[
+  {
+    "sector": "Agronegócio",
+    "segment": "Café",
+    "description": "0134-2/00 - Cultivo de café",
+    "code": "0134-2/00"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0131-8/00 - Cultivo de laranja",
+    "code": "0131-8/00"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0132-6/00 - Cultivo de uva",
+    "code": "0132-6/00"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/01 - Cultivo de açaí",
+    "code": "0133-4/01"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/02 - Cultivo de banana",
+    "code": "0133-4/02"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/03 - Cultivo de caju",
+    "code": "0133-4/03"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/04 - Cultivo de cítricos, exceto laranja",
+    "code": "0133-4/04"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/05 - Cultivo de coco-da-baía",
+    "code": "0133-4/05"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/07 - Cultivo de maçã",
+    "code": "0133-4/07"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/08 - Cultivo de mamão",
+    "code": "0133-4/08"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/09 - Cultivo de maracujá",
+    "code": "0133-4/09"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/10 - Cultivo de manga",
+    "code": "0133-4/10"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/11 - Cultivo de pêssego",
+    "code": "0133-4/11"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Fruticultura",
+    "description": "0133-4/99 - Cultivo de frutas de lavoura permanente não especificadas anteriormente",
+    "code": "0133-4/99"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Leite",
+    "description": "0151-2/01 - Criação de bovinos para corte",
+    "code": "0151-2/01"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Leite",
+    "description": "0151-2/02 - Criação de bovinos para leite",
+    "code": "0151-2/02"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Leite",
+    "description": "0151-2/03 - Criação de bovinos, exceto para corte e leite",
+    "code": "0151-2/03"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/01 - Cultivo de abacaxi",
+    "code": "0119-9/01"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/02 - Cultivo de alho",
+    "code": "0119-9/02"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/03 - Cultivo de batata-inglesa",
+    "code": "0119-9/03"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/04 - Cultivo de cebola",
+    "code": "0119-9/04"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/05 - Cultivo de feijão",
+    "code": "0119-9/05"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/06 - Cultivo de mandioca",
+    "code": "0119-9/06"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/07 - Cultivo de melão",
+    "code": "0119-9/07"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/08 - Cultivo de melancia",
+    "code": "0119-9/08"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/09 - Cultivo de tomate rasteiro",
+    "code": "0119-9/09"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0119-9/99 - Cultivo de outras plantas de lavoura temporária não especificadas anteriormente",
+    "code": "0119-9/99"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0121-1/01 - Horticultura, exceto morango",
+    "code": "0121-1/01"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0121-1/02 - Cultivo de morango",
+    "code": "0121-1/02"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0139-3/01 - Cultivo de chá-da-índia",
+    "code": "0139-3/01"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0139-3/03 - Cultivo de pimenta-do-reino",
+    "code": "0139-3/03"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0139-3/04 - Cultivo de plantas para condimento, exceto pimenta-do-reino",
+    "code": "0139-3/04"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0139-3/06 - Cultivo de seringueira",
+    "code": "0139-3/06"
+  },
+  {
+    "sector": "Agronegócio",
+    "segment": "Olericultura",
+    "description": "0139-3/99 - Cultivo de outras plantas de lavoura permanente não especificadas anteriormente",
+    "code": "0139-3/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4530-7/01 - Comércio por atacado de peças e acessórios novos para veículos automotores",
+    "code": "4530-7/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4530-7/02 - Comércio por atacado de pneumáticos e câmaras-de-ar",
+    "code": "4530-7/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4530-7/03 - Comércio a varejo de peças e acessórios novos para veículos automotores",
+    "code": "4530-7/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4530-7/04 - Comércio a varejo de peças e acessórios usados para veículos automotores",
+    "code": "4530-7/04"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4530-7/05 - Comércio a varejo de pneumáticos e câmaras-de-ar",
+    "code": "4530-7/05"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4530-7/06 - Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores",
+    "code": "4530-7/06"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Autopeças",
+    "description": "4732-6/00 - Comércio varejista de lubrificantes",
+    "code": "4732-6/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Farmácias",
+    "description": "4771-7/01 - Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas",
+    "code": "4771-7/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Farmácias",
+    "description": "4771-7/02 - Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas",
+    "code": "4771-7/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Farmácias",
+    "description": "4771-7/03 - Comércio varejista de produtos farmacêuticos homeopáticos",
+    "code": "4771-7/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Farmácias",
+    "description": "4771-7/04 - Comércio varejista de medicamentos veterinários",
+    "code": "4771-7/04"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Farmácias",
+    "description": "4772-5/00 - Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal",
+    "code": "4772-5/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Farmácias",
+    "description": "4773-3/00 - Comércio varejista de artigos médicos e ortopédicos",
+    "code": "4773-3/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4671-1/00 - Comércio atacadista de madeira e produtos derivados",
+    "code": "4671-1/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4672-9/00 - Comércio atacadista de ferragens e ferramentas",
+    "code": "4672-9/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4673-7/00 - Comércio atacadista de material elétrico",
+    "code": "4673-7/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4674-5/00 - Comércio atacadista de cimento",
+    "code": "4674-5/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4679-6/01 - Comércio atacadista de tintas, vernizes e similares",
+    "code": "4679-6/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4679-6/02 - Comércio atacadista de mármores e granitos",
+    "code": "4679-6/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4679-6/03 - Comércio atacadista de vidros, espelhos e vitrais",
+    "code": "4679-6/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4679-6/04 - Comércio atacadista especializado de materiais de construção não especificados anteriormente",
+    "code": "4679-6/04"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4679-6/99 - Comércio atacadista de materiais de construção em geral",
+    "code": "4679-6/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4741-5/00 - Comércio varejista de tintas e materiais para pintura",
+    "code": "4741-5/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4742-3/00 - Comércio varejista de material elétrico",
+    "code": "4742-3/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4743-1/00 - Comércio varejista de vidros",
+    "code": "4743-1/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/01 - Comércio varejista de ferragens e ferramentas",
+    "code": "4744-0/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/02 - Comércio varejista de madeira e artefatos",
+    "code": "4744-0/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/03 - Comércio varejista de materiais hidráulicos",
+    "code": "4744-0/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/04 - Comércio varejista de cal, areia, pedra britada, tijolos e telhas",
+    "code": "4744-0/04"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/05 - Comércio varejista de materiais de construção não especificados anteriormente",
+    "code": "4744-0/05"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/06 - Comércio varejista de pedras para revestimento",
+    "code": "4744-0/06"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Material para Construção",
+    "description": "4744-0/99 - Comércio varejista de materiais de construção em geral",
+    "code": "4744-0/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4631-1/00 - Comércio atacadista de leite e laticínios",
+    "code": "4631-1/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4632-0/01 - Comércio atacadista de cereais e leguminosas beneficiados",
+    "code": "4632-0/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4632-0/02 - Comércio atacadista de farinhas, amidos e féculas",
+    "code": "4632-0/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4632-0/03 - Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada",
+    "code": "4632-0/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4633-8/01 - Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos",
+    "code": "4633-8/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4633-8/02 - Comércio atacadista de aves vivas e ovos",
+    "code": "4633-8/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4634-6/01 - Comércio atacadista de carnes bovinas e suínas e derivados",
+    "code": "4634-6/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4634-6/02 - Comércio atacadista de aves abatidas e derivados",
+    "code": "4634-6/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4634-6/03 - Comércio atacadista de pescados e frutos do mar",
+    "code": "4634-6/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4634-6/99 - Comércio atacadista de carnes e derivados de outros animais",
+    "code": "4634-6/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4635-4/01 - Comércio atacadista de água mineral",
+    "code": "4635-4/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4635-4/02 - Comércio atacadista de cerveja, chope e refrigerante",
+    "code": "4635-4/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4635-4/03 - Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada",
+    "code": "4635-4/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4635-4/99 - Comércio atacadista de bebidas não especificadas anteriormente",
+    "code": "4635-4/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/01 - Comércio atacadista de café torrado, moído e solúvel",
+    "code": "4637-1/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/02 - Comércio atacadista de açúcar",
+    "code": "4637-1/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/03 - Comércio atacadista de óleos e gorduras",
+    "code": "4637-1/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/04 - Comércio atacadista de pães, bolos, biscoitos e similares",
+    "code": "4637-1/04"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/05 - Comércio atacadista de massas alimentícias",
+    "code": "4637-1/05"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/06 - Comércio atacadista de sorvetes",
+    "code": "4637-1/06"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/07 - Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes",
+    "code": "4637-1/07"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4637-1/99 - Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente",
+    "code": "4637-1/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4639-7/01 - Comércio atacadista de produtos alimentícios em geral",
+    "code": "4639-7/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4639-7/02 - Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada",
+    "code": "4639-7/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4691-5/00 - Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios",
+    "code": "4691-5/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4711-3/01 - Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados",
+    "code": "4711-3/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4711-3/02 - Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados",
+    "code": "4711-3/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4712-1/00 - Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns",
+    "code": "4712-1/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4721-1/02 - Padaria e confeitaria com predominância de revenda",
+    "code": "4721-1/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4721-1/03 - Comércio varejista de laticínios e frios",
+    "code": "4721-1/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4721-1/04 - Comércio varejista de doces, balas, bombons e semelhantes",
+    "code": "4721-1/04"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4722-9/01 - Comércio varejista de carnes - açougues",
+    "code": "4722-9/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4722-9/02 - Peixaria",
+    "code": "4722-9/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4723-7/00 - Comércio varejista de bebidas",
+    "code": "4723-7/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4724-5/00 - Comércio varejista de hortifrutigranjeiros",
+    "code": "4724-5/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4729-6/01 - Tabacaria",
+    "code": "4729-6/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4729-6/02 - Comércio varejista de mercadorias em lojas de conveniência",
+    "code": "4729-6/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Minimercado",
+    "description": "4729-6/99 - Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente",
+    "code": "4729-6/99"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4641-9/01 - Comércio atacadista de tecidos",
+    "code": "4641-9/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4641-9/02 - Comércio atacadista de artigos de cama, mesa e banho",
+    "code": "4641-9/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4641-9/03 - Comércio atacadista de artigos de armarinho",
+    "code": "4641-9/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4642-7/01 - Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança",
+    "code": "4642-7/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4642-7/02 - Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho",
+    "code": "4642-7/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4643-5/01 - Comércio atacadista de calçados",
+    "code": "4643-5/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4643-5/02 - Comércio atacadista de bolsas, malas e artigos de viagem",
+    "code": "4643-5/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4755-5/01 - Comércio varejista de tecidos",
+    "code": "4755-5/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4755-5/02 - Comercio varejista de artigos de armarinho",
+    "code": "4755-5/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4755-5/03 - Comercio varejista de artigos de cama, mesa e banho",
+    "code": "4755-5/03"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4781-4/00 - Comércio varejista de artigos do vestuário e acessórios",
+    "code": "4781-4/00"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4782-2/01 - Comércio varejista de calçados",
+    "code": "4782-2/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4782-2/02 - Comércio varejista de artigos de viagem",
+    "code": "4782-2/02"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4783-1/01 - Comércio varejista de artigos de joalheria",
+    "code": "4783-1/01"
+  },
+  {
+    "sector": "Comércio",
+    "segment": "Vestuário",
+    "description": "4783-1/02 - Comércio varejista de artigos de relojoaria",
+    "code": "4783-1/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1013-9/01 - Fabricação de produtos de carne",
+    "code": "1013-9/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1013-9/02 - Preparação de subprodutos do abate",
+    "code": "1013-9/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1020-1/01 - Preservação de peixes, crustáceos e moluscos",
+    "code": "1020-1/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1020-1/02 - Fabricação de conservas de peixes, crustáceos e moluscos",
+    "code": "1020-1/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1031-7/00 - Fabricação de conservas de frutas",
+    "code": "1031-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1032-5/01 - Fabricação de conservas de palmito",
+    "code": "1032-5/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1032-5/99 - Fabricação de conservas de legumes e outros vegetais, exceto palmito",
+    "code": "1032-5/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1033-3/01 - Fabricação de sucos concentrados de frutas, hortaliças e legumes",
+    "code": "1033-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1033-3/02 - Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados",
+    "code": "1033-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1041-4/00 - Fabricação de óleos vegetais em bruto, exceto óleo de milho",
+    "code": "1041-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1042-2/00 - Fabricação de óleos vegetais refinados, exceto óleo de milho",
+    "code": "1042-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1043-1/00 - Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais",
+    "code": "1043-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1051-1/00 - Preparação do leite",
+    "code": "1051-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1052-0/00 - Fabricação de laticínios",
+    "code": "1052-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1053-8/00 - Fabricação de sorvetes e outros gelados comestíveis",
+    "code": "1053-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1061-9/01 - Beneficiamento de arroz",
+    "code": "1061-9/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1061-9/02 - Fabricação de produtos do arroz",
+    "code": "1061-9/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1062-7/00 - Moagem de trigo e fabricação de derivados",
+    "code": "1062-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1063-5/00 - Fabricação de farinha de mandioca e derivados",
+    "code": "1063-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1064-3/00 - Fabricação de farinha de milho e derivados, exceto óleos de milho",
+    "code": "1064-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1065-1/01 - Fabricação de amidos e féculas de vegetais",
+    "code": "1065-1/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1066-0/00 - Fabricação de alimentos para animais",
+    "code": "1066-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1069-4/00 - Moagem e fabricação de produtos de origem vegetal não especificados anteriormente",
+    "code": "1069-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1071-6/00 - Fabricação de açúcar em bruto",
+    "code": "1071-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1072-4/01 - Fabricação de açúcar de cana refinado",
+    "code": "1072-4/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1081-3/01 - Beneficiamento de café",
+    "code": "1081-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1081-3/02 - Torrefação e moagem de café",
+    "code": "1081-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1082-1/00 - Fabricação de produtos à base de café",
+    "code": "1082-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1092-9/00 - Fabricação de biscoitos e bolachas",
+    "code": "1092-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1093-7/01 - Fabricação de produtos derivados do cacau e de chocolates",
+    "code": "1093-7/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1093-7/02 - Fabricação de frutas cristalizadas, balas e semelhantes",
+    "code": "1093-7/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1094-5/00 - Fabricação de massas alimentícias",
+    "code": "1094-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1095-3/00 - Fabricação de especiarias, molhos, temperos e condimentos",
+    "code": "1095-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1096-1/00 - Fabricação de alimentos e pratos prontos",
+    "code": "1096-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/01 - Fabricação de vinagres",
+    "code": "1099-6/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/02 - Fabricação de pós alimentícios",
+    "code": "1099-6/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/03 - Fabricação de fermentos e leveduras",
+    "code": "1099-6/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/04 - Fabricação de gelo comum",
+    "code": "1099-6/04"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/05 - Fabricação de produtos para infusão (chá, mate, etc.)",
+    "code": "1099-6/05"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/06 - Fabricação de adoçantes naturais e artificiais",
+    "code": "1099-6/06"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/07 - Fabricação de alimentos dietéticos e complementos alimentares",
+    "code": "1099-6/07"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1099-6/99 - Fabricação de outros produtos alimentícios não especificados anteriormente",
+    "code": "1099-6/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1111-9/01 - Fabricação de aguardente de cana-de-açúcar",
+    "code": "1111-9/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1111-9/02 - Fabricação de outras aguardentes e bebidas destiladas",
+    "code": "1111-9/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1112-7/00 - Fabricação de vinho",
+    "code": "1112-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1113-5/02 - Fabricação de cervejas e chopes",
+    "code": "1113-5/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1121-6/00 - Fabricação de águas envasadas",
+    "code": "1121-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1122-4/01 - Fabricação de refrigerantes",
+    "code": "1122-4/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1122-4/02 - Fabricação de chá mate e outros chás prontos para consumo",
+    "code": "1122-4/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1122-4/03 - Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas",
+    "code": "1122-4/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Alimentos e Bebidas",
+    "description": "1122-4/99 - Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente",
+    "code": "1122-4/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "1359-6/00 - Fabricação de artesanato em material têxtil",
+    "code": "1359-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "1529-7/00 - Fabricação de artesanato em couros e peles",
+    "code": "1529-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "1629-3/01 - Fabricação de artesanato de madeira",
+    "code": "1629-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "1629-3/02 - Fabricação de artesanato em cortiça, bambu, palha, vime ou outros materiais trançados",
+    "code": "1629-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "1749-4/00 - Fabricação de artesanato em pastas celulósicas, papel, papel-cartão ou papelão",
+    "code": "1749-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2391-5/03 - Fabricação de artesanato em mármore, granito, ardósia ou outras pedras",
+    "code": "2391-5/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2219-6/00 - Fabricação de artesanato em borracha",
+    "code": "2219-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2229-3/99 - Fabricação de artesanato em material plástico",
+    "code": "2229-3/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2319-2/00 - Fabricação de artesanato em vidro ou cristal",
+    "code": "2319-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2330-3/99 - Fabricação de artesanato em fibrocimento ou gesso",
+    "code": "2330-3/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2349-4/99 - Fabricação de artesanato em cerâmica, louça, porcelana ou barro cozido",
+    "code": "2349-4/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2599-3/99 - Fabricação de artesanato em metais (exceto metais preciosos)",
+    "code": "2599-3/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "3211-6/01 - Lapidação de gemas",
+    "code": "3211-6/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "3211-6/02 - Fabricação de artefatos de joalheria e ourivesaria",
+    "code": "3211-6/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "3211-6/03 - Cunhagem de moedas e medalhas",
+    "code": "3211-6/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "3212-4/00 - Fabricação de bijuterias e artefatos semelhantes",
+    "code": "3212-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "3299-0/99 - Fabricação de artesanato em materias diversos, não especificados anteriormente",
+    "code": "3299-0/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "4789-0/01 - Fabricação de artesanato em metais preciosos",
+    "code": "4789-0/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "9002-7/01 - Serviços de pintura de artesanato",
+    "code": "9002-7/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1311-1/00 - Preparação e fiação de fibras de algodão",
+    "code": "1311-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1312-0/00 - Preparação e fiação de fibras têxteis naturais, exceto algodão",
+    "code": "1312-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1313-8/00 - Fiação de fibras artificiais e sintéticas",
+    "code": "1313-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1314-6/00 - Fabricação de linhas para costurar e bordar",
+    "code": "1314-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1321-9/00 - Tecelagem de fios de algodão",
+    "code": "1321-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1322-7/00 - Tecelagem de fios de fibras têxteis naturais, exceto algodão",
+    "code": "1322-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1323-5/00 - Tecelagem de fios de fibras artificiais e sintéticas",
+    "code": "1323-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1330-8/00 - Fabricação de tecidos de malha",
+    "code": "1330-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1340-5/01 - Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário",
+    "code": "1340-5/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1340-5/02 - Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário",
+    "code": "1340-5/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1340-5/99 - Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário",
+    "code": "1340-5/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1351-1/00 - Fabricação de artefatos têxteis para uso doméstico",
+    "code": "1351-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1352-9/00 - Fabricação de artefatos de tapeçaria",
+    "code": "1352-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1353-7/00 - Fabricação de artefatos de cordoaria",
+    "code": "1353-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1354-5/00 - Fabricação de tecidos especiais, inclusive artefatos",
+    "code": "1354-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1359-6/00 - Fabricação de outros produtos têxteis não especificados anteriormente",
+    "code": "1359-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1411-8/01 - Confecção de roupas íntimas",
+    "code": "1411-8/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1411-8/02 - Facção de roupas íntimas",
+    "code": "1411-8/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1412-6/01 - Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida",
+    "code": "1412-6/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1412-6/02 - Confecção, sob medida, de peças do vestuário, exceto roupas íntimas",
+    "code": "1412-6/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1412-6/03 - Facção de peças do vestuário, exceto roupas íntimas",
+    "code": "1412-6/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1413-4/01 - Confecção de roupas profissionais, exceto sob medida",
+    "code": "1413-4/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1413-4/02 - Confecção, sob medida, de roupas profissionais",
+    "code": "1413-4/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1413-4/03 - Facção de roupas profissionais",
+    "code": "1413-4/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1414-2/00 - Fabricação de acessórios do vestuário, exceto para segurança e proteção",
+    "code": "1414-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1421-5/00 - Fabricação de meias",
+    "code": "1421-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1422-3/00 - Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias",
+    "code": "1422-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1510-6/00 - Curtimento e outras preparações de couro",
+    "code": "1510-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1521-1/00 - Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material",
+    "code": "1521-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1529-7/00 - Fabricação de artefatos de couro não especificados anteriormente",
+    "code": "1529-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1531-9/01 - Fabricação de calçados de couro",
+    "code": "1531-9/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1531-9/02 - Acabamento de calçados de couro sob contrato",
+    "code": "1531-9/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1532-7/00 - Fabricação de tênis de qualquer material",
+    "code": "1532-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1533-5/00 - Fabricação de calçados de material sintético",
+    "code": "1533-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1539-4/00 - Fabricação de calçados de materiais não especificados anteriormente",
+    "code": "1539-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Confecção, Couro e Calçado",
+    "description": "1540-8/00 - Fabricação de partes para calçados, de qualquer material",
+    "code": "1540-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/01 - Extração de ardósia e beneficiamento associado",
+    "code": "0810-0/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/02 - Extração de granito e beneficiamento associado",
+    "code": "0810-0/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/04 - Extração de calcário e dolomita e beneficiamento associado",
+    "code": "0810-0/04"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/05 - Extração de gesso e caulim",
+    "code": "0810-0/05"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/06 - Extração de areia, cascalho ou pedregulho e beneficiamento associado",
+    "code": "0810-0/06"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/07 - Extração de argila e beneficiamento associado",
+    "code": "0810-0/07"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/08 - Extração de saibro e beneficiamento associado",
+    "code": "0810-0/08"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/09 - Extração de basalto e beneficiamento associado",
+    "code": "0810-0/09"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "0810-0/99 - Extração e britamento de pedras e outros materiais para construção e beneficiamento associado",
+    "code": "0810-0/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2223-4/00 - Fabricação de tubos e acessórios de material plástico para uso na construção",
+    "code": "2223-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2311-7/00 - Fabricação de vidro plano e de segurança",
+    "code": "2311-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2312-5/00 - Fabricação de embalagens de vidro",
+    "code": "2312-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2319-2/00 - Fabricação de artigos de vidro",
+    "code": "2319-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2320-6/00 - Fabricação de cimento",
+    "code": "2320-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2330-3/01 - Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda",
+    "code": "2330-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2330-3/02 - Fabricação de artefatos de cimento para uso na construção",
+    "code": "2330-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2330-3/03 - Fabricação de artefatos de fibrocimento para uso na construção",
+    "code": "2330-3/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2330-3/04 - Fabricação de casas pré-moldadas de concreto",
+    "code": "2330-3/04"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2330-3/05 - Preparação de massa de concreto e argamassa para construção",
+    "code": "2330-3/05"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2330-3/99 - Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes",
+    "code": "2330-3/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2341-9/00 - Fabricação de produtos cerâmicos refratários",
+    "code": "2341-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2342-7/01 - Fabricação de azulejos e pisos",
+    "code": "2342-7/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2342-7/02 - Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos",
+    "code": "2342-7/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2349-4/01 - Fabricação de material sanitário de cerâmica",
+    "code": "2349-4/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2349-4/99 - Fabricação de produtos cerâmicos não-refratários não especificados anteriormente",
+    "code": "2349-4/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2391-5/01 - Britamento de pedras, exceto associado à extração",
+    "code": "2391-5/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2391-5/02 - Aparelhamento de pedras para construção, exceto associado à extração",
+    "code": "2391-5/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2391-5/03 - Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras",
+    "code": "2391-5/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2392-3/00 - Fabricação de cal e gesso",
+    "code": "2392-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2511-0/00 - Fabricação de estruturas metálicas",
+    "code": "2511-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2512-8/00 - Fabricação de esquadrias de metal",
+    "code": "2512-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2542-0/00 - Fabricação de artigos de serralheria, exceto esquadrias",
+    "code": "2542-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2543-8/00 - Fabricação de ferramentas",
+    "code": "2543-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2592-6/01 - Fabricação de produtos de trefilados de metal padronizados",
+    "code": "2592-6/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "2592-6/02 - Fabricação de produtos de trefilados de metal, exceto padronizados",
+    "code": "2592-6/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Construção Civil Ind.",
+    "description": "3103-9/00 - Fabricação de móveis de outros materiais, exceto madeira e metal",
+    "code": "3103-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1811-3/01 - Impressão de jornais",
+    "code": "1811-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1811-3/02 - Impressão de livros, revistas e outras publicações periódicas",
+    "code": "1811-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1812-1/00 - Impressão de material de segurança",
+    "code": "1812-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1813-0/01 - Impressão de material para uso publicitário",
+    "code": "1813-0/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1813-0/99 - Impressão de material para outros usos",
+    "code": "1813-0/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1821-1/00 - Serviços de pré-impressão",
+    "code": "1821-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1822-9/00 - Serviços de acabamentos gráficos",
+    "code": "1822-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1822-9/01 - Serviços de encadernação e plastificação",
+    "code": "1822-9/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "1822-9/99 - Serviços de acabamentos gráficos, exceto encadernação e plastificação",
+    "code": "1822-9/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5811-5/00 - Edição de livros",
+    "code": "5811-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5812-3/01 - Edição de jornais diários",
+    "code": "5812-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5812-3/02 - Edição de jornais não diários",
+    "code": "5812-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5813-1/00 - Edição de revistas",
+    "code": "5813-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5819-1/00 - Edição de cadastros, listas e outros produtos gráficos",
+    "code": "5819-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5821-2/00 - Edição integrada à impressão de livros",
+    "code": "5821-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5822-1/01 - Edição integrada à impressão de jornais diários",
+    "code": "5822-1/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5823-9/00 - Edição integrada à impressão de revistas",
+    "code": "5823-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Gráfica",
+    "description": "5829-8/00 - Edição integrada à impressão de cadastros, listas e outros produtos gráficos",
+    "code": "5829-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "1910-1/00 - Coquerias",
+    "code": "1910-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2211-1/00 - Fabricação de pneumáticos e de câmaras-de-ar",
+    "code": "2211-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2212-9/00 - Reforma de pneumáticos usados",
+    "code": "2212-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2411-3/00 - Produção de ferro-gusa",
+    "code": "2411-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2412-1/00 - Produção de ferroligas",
+    "code": "2412-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2421-1/00 - Produção de semi-acabados de aço",
+    "code": "2421-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2422-9/01 - Produção de laminados planos de aço ao carbono, revestidos ou não",
+    "code": "2422-9/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2422-9/02 - Produção de laminados planos de aços especiais",
+    "code": "2422-9/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2423-7/01 - Produção de tubos de aço sem costura",
+    "code": "2423-7/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2423-7/02 - Produção de laminados longos de aço, exceto tubos",
+    "code": "2423-7/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2424-5/01 - Produção de arames de aço",
+    "code": "2424-5/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2424-5/02 - Produção de relaminados, trefilados e perfilados de aço, exceto arames",
+    "code": "2424-5/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2431-8/00 - Produção de tubos de aço com costura",
+    "code": "2431-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2439-3/00 - Produção de outros tubos de ferro e aço",
+    "code": "2439-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2441-5/01 - Produção de alumínio e suas ligas em formas primárias",
+    "code": "2441-5/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2441-5/02 - Produção de laminados de alumínio",
+    "code": "2441-5/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2442-3/00 - Metalurgia dos metais preciosos",
+    "code": "2442-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2443-1/00 - Metalurgia do cobre",
+    "code": "2443-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2449-1/01 - Produção de zinco em formas primárias",
+    "code": "2449-1/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2449-1/02 - Produção de laminados de zinco",
+    "code": "2449-1/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2449-1/03 - Produção de ânodos para galvanoplastia",
+    "code": "2449-1/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2449-1/99 - Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente",
+    "code": "2449-1/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2451-2/00 - Fundição de ferro e aço",
+    "code": "2451-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2452-1/00 - Fundição de metais não-ferrosos e suas ligas",
+    "code": "2452-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2513-6/00 - Fabricação de obras de caldeiraria pesada",
+    "code": "2513-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2521-7/00 - Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central",
+    "code": "2521-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2522-5/00 - Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos",
+    "code": "2522-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2531-4/01 - Produção de forjados de aço",
+    "code": "2531-4/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2531-4/02 - Produção de forjados de metais não-ferrosos e suas ligas",
+    "code": "2531-4/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2532-2/01 - Produção de artefatos estampados de metal",
+    "code": "2532-2/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2532-2/02 - Metalurgia do pó",
+    "code": "2532-2/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2539-0/01 - Serviços de usinagem, tornearia e solda",
+    "code": "2539-0/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2539-0/02 - Serviços de tratamento e revestimento em metais",
+    "code": "2539-0/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2541-1/00 - Fabricação de artigos de cutelaria",
+    "code": "2541-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2591-8/00 - Fabricação de embalagens metálicas",
+    "code": "2591-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2593-4/00 - Fabricação de artigos de metal para uso doméstico e pessoal",
+    "code": "2593-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2599-3/01 - Serviços de confecção de armações metálicas para a construção",
+    "code": "2599-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2599-3/02 - Serviço de corte e dobra de metais",
+    "code": "2599-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2599-3/99 - Fabricação de outros produtos de metal não especificados anteriormente",
+    "code": "2599-3/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2811-9/00 - Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários",
+    "code": "2811-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2812-7/00 - Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas",
+    "code": "2812-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2813-5/00 - Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios",
+    "code": "2813-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2814-3/01 - Fabricação de compressores para uso industrial, peças e acessórios",
+    "code": "2814-3/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2814-3/02 - Fabricação de compressores para uso não-industrial, peças e acessórios",
+    "code": "2814-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2822-4/01 - Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios",
+    "code": "2822-4/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2822-4/02 - Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios",
+    "code": "2822-4/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2823-2/00 - Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios",
+    "code": "2823-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2825-9/00 - Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios",
+    "code": "2825-9/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2829-1/01 - Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios",
+    "code": "2829-1/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2829-1/99 - Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios",
+    "code": "2829-1/99"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2831-3/00 - Fabricação de tratores agrícolas, peças e acessórios",
+    "code": "2831-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2832-1/00 - Fabricação de equipamentos para irrigação agrícola, peças e acessórios",
+    "code": "2832-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2833-0/00 - Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação",
+    "code": "2833-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2840-2/00 - Fabricação de máquinas-ferramenta, peças e acessórios",
+    "code": "2840-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2851-8/00 - Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios",
+    "code": "2851-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2852-6/00 - Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo",
+    "code": "2852-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2853-4/00 - Fabricação de tratores, peças e acessórios, exceto agrícolas",
+    "code": "2853-4/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2854-2/00 - Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores",
+    "code": "2854-2/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2861-5/00 - Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta",
+    "code": "2861-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2862-3/00 - Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios",
+    "code": "2862-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2863-1/00 - Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios",
+    "code": "2863-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2864-0/00 - Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios",
+    "code": "2864-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2865-8/00 - Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios",
+    "code": "2865-8/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2866-6/00 - Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios",
+    "code": "2866-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2869-1/00 - Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios",
+    "code": "2869-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2941-7/00 - Fabricação de peças e acessórios para o sistema motor de veículos automotores",
+    "code": "2941-7/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2942-5/00 - Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores",
+    "code": "2942-5/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2943-3/00 - Fabricação de peças e acessórios para o sistema de freios de veículos automotores",
+    "code": "2943-3/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2944-1/00 - Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores",
+    "code": "2944-1/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2945-0/00 - Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias",
+    "code": "2945-0/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "2950-6/00 - Recondicionamento e recuperação de motores para veículos automotores",
+    "code": "2950-6/00"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/01 - Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório",
+    "code": "3250-7/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/02 - Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório",
+    "code": "3250-7/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/03 - Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda",
+    "code": "3250-7/03"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/04 - Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda",
+    "code": "3250-7/04"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/05 - Fabricação de materiais para medicina e odontologia",
+    "code": "3250-7/05"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/06 - Serviços de prótese dentária",
+    "code": "3250-7/06"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/07 - Fabricação de artigos ópticos",
+    "code": "3250-7/07"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Metal Mecânica",
+    "description": "3250-7/09 - Serviço de laboratório óptico",
+    "code": "3250-7/09"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Padarias",
+    "description": "1091-1/01 - Fabricação de produtos de panificação industrial",
+    "code": "1091-1/01"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Padarias",
+    "description": "1091-1/02 - Fabricação de produtos de padaria e confeitaria com predominância de produção própria",
+    "code": "1091-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Advogados",
+    "description": "6911-7/01 - Serviços advocatícios",
+    "code": "6911-7/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Advogados",
+    "description": "6911-7/02 - Atividades auxiliares da justiça",
+    "code": "6911-7/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Advogados",
+    "description": "6911-7/03 - Agente de propriedade industrial",
+    "code": "6911-7/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5611-2/01 - Restaurantes e similares",
+    "code": "5611-2/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5611-2/02 - Bares e outros estabelecimentos especializados em servir bebidas",
+    "code": "5611-2/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5611-2/03 - Lanchonetes, casas de chá, de sucos e similares",
+    "code": "5611-2/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5612-1/00 - Serviços ambulantes de alimentação",
+    "code": "5612-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5620-1/01 - Fornecimento de alimentos preparados preponderantemente para empresas",
+    "code": "5620-1/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5620-1/02 - Serviços de alimentação para eventos e recepções - bufê",
+    "code": "5620-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5620-1/03 - Cantinas - serviços de alimentação privativos",
+    "code": "5620-1/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Alimentação Fora do Lar",
+    "description": "5620-1/04 - Fornecimento de alimentos preparados preponderantemente para consumo domiciliar",
+    "code": "5620-1/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9602-5/01 - Cabeleireiros, manicure e pedicure",
+    "code": "9602-5/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9602-5/02 - Atividades de Estética e outros serviços de cuidados com a beleza",
+    "code": "9602-5/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/02 - Agências matrimoniais",
+    "code": "9609-2/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/04 - Exploração de máquinas de serviços pessoais acionadas por moeda",
+    "code": "9609-2/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/05 - Atividades de sauna e banhos",
+    "code": "9609-2/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/06 - Serviços de tatuagem e colocação de piercing",
+    "code": "9609-2/06"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/07 - Alojamento de animais domésticos",
+    "code": "9609-2/07"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/08 - Higiene e embelezamento de animais domésticos",
+    "code": "9609-2/08"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Beleza e Estética",
+    "description": "9609-2/99 - Outras atividades de serviços pessoais não especificadas anteriormente",
+    "code": "9609-2/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "2399-1/02 - Fabricação de abrasivos",
+    "code": "2399-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "2399-1/99 - Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente",
+    "code": "2399-1/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4120-4/00 - Construção de edifícios",
+    "code": "4120-4/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4211-1/01 - Construção de rodovias e ferrovias",
+    "code": "4211-1/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4211-1/02 - Pintura para sinalização em pistas rodoviárias e aeroportos",
+    "code": "4211-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4212-0/00 - Construção de obras-de-arte especiais",
+    "code": "4212-0/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4213-8/00 - Obras de urbanização - ruas, praças e calçadas",
+    "code": "4213-8/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4221-9/01 - Construção de barragens e represas para geração de energia elétrica",
+    "code": "4221-9/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4221-9/02 - Construção de estações e redes de distribuição de energia elétrica",
+    "code": "4221-9/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4221-9/03 - Manutenção de redes de distribuição de energia elétrica",
+    "code": "4221-9/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4221-9/04 - Construção de estações e redes de telecomunicações",
+    "code": "4221-9/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4221-9/05 - Manutenção de estações e redes de telecomunicações",
+    "code": "4221-9/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4222-7/01 - Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação",
+    "code": "4222-7/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4222-7/02 - Obras de irrigação",
+    "code": "4222-7/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4223-5/00 - Construção de redes de transportes por dutos, exceto para água e esgoto",
+    "code": "4223-5/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4291-0/00 - Obras portuárias, marítimas e fluviais",
+    "code": "4291-0/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4292-8/01 - Montagem de estruturas metálicas",
+    "code": "4292-8/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4292-8/02 - Obras de montagem industrial",
+    "code": "4292-8/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4299-5/01 - Construção de instalações esportivas e recreativas",
+    "code": "4299-5/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4299-5/99 - Outras obras de engenharia civil não especificadas anteriormente",
+    "code": "4299-5/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4311-8/01 - Demolição de edifícios e outras estruturas",
+    "code": "4311-8/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4311-8/02 - Preparação de canteiro e limpeza de terreno",
+    "code": "4311-8/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4312-6/00 - Perfurações e sondagens",
+    "code": "4312-6/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4313-4/00 - Obras de terraplenagem",
+    "code": "4313-4/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4319-3/00 - Serviços de preparação do terreno não especificados anteriormente",
+    "code": "4319-3/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4321-5/00 - Instalação e manutenção elétrica",
+    "code": "4321-5/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4322-3/01 - Instalações hidráulicas, sanitárias e de gás",
+    "code": "4322-3/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4322-3/02 - Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",
+    "code": "4322-3/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4322-3/03 - Instalações de sistema de prevenção contra incêndio",
+    "code": "4322-3/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4329-1/01 - Instalação de painéis publicitários",
+    "code": "4329-1/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4329-1/02 - Instalação de equipamentos para orientação à navegação marítima, fluvial e lacustre",
+    "code": "4329-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4329-1/03 - Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes",
+    "code": "4329-1/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4329-1/04 - Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",
+    "code": "4329-1/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4329-1/05 - Tratamentos térmicos, acústicos ou de vibração",
+    "code": "4329-1/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4329-1/99 - Outras obras de instalações em construções não especificadas anteriormente",
+    "code": "4329-1/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4330-4/01 - Impermeabilização em obras de engenharia civil",
+    "code": "4330-4/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4330-4/02 - Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material",
+    "code": "4330-4/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4330-4/03 - Obras de acabamento em gesso e estuque",
+    "code": "4330-4/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4330-4/04 - Serviços de pintura de edifícios em geral",
+    "code": "4330-4/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4330-4/05 - Aplicação de revestimentos e de resinas em interiores e exteriores",
+    "code": "4330-4/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4330-4/99 - Outras obras de acabamento da construção",
+    "code": "4330-4/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4391-6/00 - Obras de fundações",
+    "code": "4391-6/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4399-1/01 - Administração de obras",
+    "code": "4399-1/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4399-1/02 - Montagem e desmontagem de andaimes e outras estruturas temporárias",
+    "code": "4399-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4399-1/03 - Obras de alvenaria",
+    "code": "4399-1/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4399-1/04 - Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras",
+    "code": "4399-1/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4399-1/05 - Perfuração e construção de poços de água",
+    "code": "4399-1/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Construção Civil Serv.",
+    "description": "4399-1/99 - Serviços especializados para construção não especificados anteriormente",
+    "code": "4399-1/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Contabilistas",
+    "description": "6920-6/01 - Atividades de contabilidade",
+    "code": "6920-6/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Contabilistas",
+    "description": "6920-6/02 - Atividades de consultoria e auditoria contábil e tributária",
+    "code": "6920-6/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Corretores",
+    "description": "6622-3/00 - Corretores e agentes de seguros, de planos de previdência complementar e de saúde",
+    "code": "6622-3/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Corretores",
+    "description": "6821-8/01 - Corretagem na compra e venda e avaliação de imóveis",
+    "code": "6821-8/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8511-2/00 - Educação infantil - creche",
+    "code": "8511-2/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8512-1/00 - Educação infantil - pré-escola",
+    "code": "8512-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8513-9/00 - Ensino fundamental",
+    "code": "8513-9/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8520-1/00 - Ensino médio",
+    "code": "8520-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8531-7/00 - Educação superior - graduação",
+    "code": "8531-7/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8532-5/00 - Educação superior - graduação e pós-graduação",
+    "code": "8532-5/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8533-3/00 - Educação superior - pós-graduação e extensão",
+    "code": "8533-3/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8541-4/00 - Educação profissional de nível técnico",
+    "code": "8541-4/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8542-2/00 - Educação profissional de nível tecnológico",
+    "code": "8542-2/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8591-1/00 - Ensino de esportes",
+    "code": "8591-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8592-9/01 - Ensino de dança",
+    "code": "8592-9/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8592-9/02 - Ensino de artes cênicas, exceto dança",
+    "code": "8592-9/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8592-9/03 - Ensino de música",
+    "code": "8592-9/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8592-9/99 - Ensino de arte e cultura não especificado anteriormente",
+    "code": "8592-9/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8593-7/00 - Ensino de idiomas",
+    "code": "8593-7/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8599-6/01 - Formação de condutores",
+    "code": "8599-6/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8599-6/02 - Cursos de pilotagem",
+    "code": "8599-6/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8599-6/03 - Treinamento em informática",
+    "code": "8599-6/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8599-6/04 - Treinamento em desenvolvimento profissional e gerencial",
+    "code": "8599-6/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8599-6/05 - Cursos preparatórios para concursos",
+    "code": "8599-6/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "8599-6/99 - Outras atividades de ensino não especificadas anteriormente",
+    "code": "8599-6/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Educação",
+    "description": "9313-1/00 - Atividades de condicionamento físico",
+    "code": "9313-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Imobiliárias",
+    "description": "6810-2/01 - Compra e venda de imóveis próprios",
+    "code": "6810-2/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Imobiliárias",
+    "description": "6810-2/02 - Aluguel de imóveis próprios",
+    "code": "6810-2/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Imobiliárias",
+    "description": "6810-2/03 - Loteamento de imóveis próprios",
+    "code": "6810-2/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Imobiliárias",
+    "description": "6821-8/01 - Corretagem na compra e venda e avaliação de imóveis",
+    "code": "6821-8/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Imobiliárias",
+    "description": "6821-8/02 - Corretagem no aluguel de imóveis",
+    "code": "6821-8/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Imobiliárias",
+    "description": "6822-6/00 - Gestão e administração da propriedade imobiliária",
+    "code": "6822-6/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8610-1/01 - Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências",
+    "code": "8610-1/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8610-1/02 - Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências",
+    "code": "8610-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8621-6/01 - UTI móvel",
+    "code": "8621-6/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8621-6/02 - Serviços móveis de atendimento a urgências, exceto por UTI móvel",
+    "code": "8621-6/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8622-4/00 - Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências",
+    "code": "8622-4/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8630-5/01 - Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos",
+    "code": "8630-5/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8630-5/02 - Atividade médica ambulatorial com recursos para realização de exames complementares",
+    "code": "8630-5/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8630-5/03 - Atividade médica ambulatorial restrita a consultas",
+    "code": "8630-5/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8630-5/06 - Serviços de vacinação e imunização humana",
+    "code": "8630-5/06"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8630-5/07 - Atividades de reprodução humana assistida",
+    "code": "8630-5/07"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8630-5/99 - Atividades de atenção ambulatorial não especificadas anteriormente",
+    "code": "8630-5/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/01 - Laboratórios de anatomia patológica e citológica",
+    "code": "8640-2/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/02 - Laboratórios clínicos",
+    "code": "8640-2/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/03 - Serviços de diálise e nefrologia",
+    "code": "8640-2/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/04 - Serviços de tomografia",
+    "code": "8640-2/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/05 - Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia",
+    "code": "8640-2/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/06 - Serviços de ressonância magnética",
+    "code": "8640-2/06"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/07 - Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética",
+    "code": "8640-2/07"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/08 - Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos",
+    "code": "8640-2/08"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/09 - Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos",
+    "code": "8640-2/09"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/10 - Serviços de quimioterapia",
+    "code": "8640-2/10"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/11 - Serviços de radioterapia",
+    "code": "8640-2/11"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/12 - Serviços de hemoterapia",
+    "code": "8640-2/12"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/13 - Serviços de litotripsia",
+    "code": "8640-2/13"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/14 - Serviços de bancos de células e tecidos humanos",
+    "code": "8640-2/14"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8640-2/99 - Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente",
+    "code": "8640-2/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8690-9/01 - Atividades de práticas integrativas e complementares em saúde humana",
+    "code": "8690-9/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8690-9/03 - Atividades de acupuntura",
+    "code": "8690-9/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8690-9/04 - Atividades de podologia",
+    "code": "8690-9/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8690-9/99 - Outras atividades de atenção à saúde humana não especificadas anteriormente",
+    "code": "8690-9/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8711-5/01 - Clínicas e residências geriátricas",
+    "code": "8711-5/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8711-5/02 - Instituições de longa permanência para idosos",
+    "code": "8711-5/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8711-5/03 - Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes",
+    "code": "8711-5/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8711-5/04 - Centros de apoio a pacientes com câncer e com AIDS",
+    "code": "8711-5/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8711-5/05 - Condomínios residenciais para idosos",
+    "code": "8711-5/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8720-4/01 - Atividades de centros de assistência psicossocial",
+    "code": "8720-4/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Médicos",
+    "description": "8720-4/99 - Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química não especificadas anteriormente",
+    "code": "8720-4/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Meios de Hospedagem",
+    "description": "5510-8/01 - Hotéis",
+    "code": "5510-8/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Meios de Hospedagem",
+    "description": "5510-8/02 - Apart-hotéis",
+    "code": "5510-8/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Meios de Hospedagem",
+    "description": "5510-8/03 - Motéis",
+    "code": "5510-8/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Odontologista",
+    "description": "8630-5/04 - Atividade odontológica",
+    "code": "8630-5/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/01 - Atividades de enfermagem",
+    "code": "8650-0/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/02 - Atividades de profissionais da nutrição",
+    "code": "8650-0/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/03 - Atividades de psicologia e psicanálise",
+    "code": "8650-0/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/04 - Atividades de fisioterapia",
+    "code": "8650-0/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/05 - Atividades de terapia ocupacional",
+    "code": "8650-0/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/06 - Atividades de fonoaudiologia",
+    "code": "8650-0/06"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/07 - Atividades de terapia de nutrição enteral e parenteral",
+    "code": "8650-0/07"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Profissionais Liberais",
+    "description": "8650-0/99 - Atividades de profissionais da área de saúde não especificadas anteriormente",
+    "code": "8650-0/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/01 - Serviços de manutenção e reparação mecânica de veículos automotores",
+    "code": "4520-0/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/02 - Serviços de lanternagem ou funilaria e pintura de veículos automotores",
+    "code": "4520-0/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/03 - Serviços de manutenção e reparação elétrica de veículos automotores",
+    "code": "4520-0/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/04 - Serviços de alinhamento e balanceamento de veículos automotores",
+    "code": "4520-0/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/05 - Serviços de lavagem, lubrificação e polimento de veículos automotores",
+    "code": "4520-0/05"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/06 - Serviços de borracharia para veículos automotores",
+    "code": "4520-0/06"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/07 - Serviços de instalação, manutenção e reparação de acessórios para veículos automotores",
+    "code": "4520-0/07"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4520-0/08 - Serviços de capotaria",
+    "code": "4520-0/08"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Reparação Automotiva",
+    "description": "4543-9/00 - Manutenção e reparação de motocicletas e motonetas",
+    "code": "4543-9/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6201-5/00 - Desenvolvimento de programas de computador sob encomenda",
+    "code": "6201-5/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6201-5/01 - Desenvolvimento de programas de computador sob encomenda",
+    "code": "6201-5/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6201-5/02 - Web design",
+    "code": "6201-5/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6202-3/00 - Desenvolvimento e licenciamento de programas de computador customizáveis",
+    "code": "6202-3/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6203-1/00 - Desenvolvimento e licenciamento de programas de computador não-customizáveis",
+    "code": "6203-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6209-1/00 - Suporte técnico, manutenção e outros serviços em tecnologia da informação",
+    "code": "6209-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6311-9/00 - Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet",
+    "code": "6311-9/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "6319-4/00 - Portais, provedores de conteúdo e outros serviços de informação na internet",
+    "code": "6319-4/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "TIC",
+    "description": "9511-8/00 - Reparação e manutenção de computadores e de equipamentos periféricos",
+    "code": "9511-8/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4921-3/01 - Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal",
+    "code": "4921-3/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4921-3/02 - Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana",
+    "code": "4921-3/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4922-1/01 - Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana",
+    "code": "4922-1/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4922-1/02 - Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual",
+    "code": "4922-1/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4922-1/03 - Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional",
+    "code": "4922-1/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4923-0/01 - Serviço de táxi",
+    "code": "4923-0/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4923-0/02 - Serviço de transporte de passageiros - locação de automóveis com motorista",
+    "code": "4923-0/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4924-8/00 - Transporte escolar",
+    "code": "4924-8/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4929-9/01 - Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal",
+    "code": "4929-9/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4929-9/02 - Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional",
+    "code": "4929-9/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4929-9/03 - Organização de excursões em veículos rodoviários próprios, municipal",
+    "code": "4929-9/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4929-9/04 - Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional",
+    "code": "4929-9/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4929-9/99 - Outros transportes rodoviários de passageiros não especificados anteriormente",
+    "code": "4929-9/99"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4930-2/01 - Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal",
+    "code": "4930-2/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4930-2/02 - Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional",
+    "code": "4930-2/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4930-2/03 - Transporte rodoviário de produtos perigosos",
+    "code": "4930-2/03"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4930-2/04 - Transporte rodoviário de mudanças",
+    "code": "4930-2/04"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "4950-7/00 - Trens turísticos, teleféricos e similares",
+    "code": "4950-7/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "5022-0/01 - Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia",
+    "code": "5022-0/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "5022-0/02 - Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia",
+    "code": "5022-0/02"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Transporte",
+    "description": "5111-1/00 - Transporte aéreo de passageiros regular",
+    "code": "5111-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "5232-0/00 - Atividades de agenciamento marítimo",
+    "code": "5232-0/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "7711-0/00 - Locação de automóveis sem condutor",
+    "code": "7711-0/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "7721-7/00 - Aluguel de equipamentos recreativos e esportivos",
+    "code": "7721-7/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "7911-2/00 - Agências de viagens",
+    "code": "7911-2/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "7912-1/00 - Operadores turísticos",
+    "code": "7912-1/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "7990-2/00 - Serviços de reservas e outros serviços de turismo não especificados anteriormente",
+    "code": "7990-2/00"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "9102-3/01 - Atividades de museus e de exploração de lugares e prédios históricos e atrações similares",
+    "code": "9102-3/01"
+  },
+  {
+    "sector": "Serviços",
+    "segment": "Turismo",
+    "description": "9102-3/02 - Restauração e conservação de lugares e prédios históricos",
+    "code": "9102-3/02"
+  },
+  {
+    "sector": "Indústria",
+    "segment": "Artesanato",
+    "description": "2399-1/01 - Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal",
+    "code": "2399-1/01"
+  }
+]

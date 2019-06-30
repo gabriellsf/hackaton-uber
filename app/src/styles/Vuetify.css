@@ -1,0 +1,60 @@
+/* 
+ * VAutocomplete to search reviews of teachers and disciplines
+ */
+.search-address.v-text-field > .v-input__control > .v-input__slot:before,
+.search-address.v-text-field > .v-input__control > .v-input__slot:after{
+  display: none;
+}
+.search-address.v-select.v-select--is-menu-active .v-input__icon--append .v-icon {
+  transform: none;
+}
+.search-address.v-text-field .prepend{
+  margin-top: 5px;
+}
+.search-address.search-cnae.v-text-field .prepend{
+  margin-top: 0px;
+}
+.search-address.search-cnae.v-text-field {
+  width: 100%;
+}
+.search-address.search-cnae.v-text-field .v-select__selections {
+  width: 100%;
+}
+.search-address.v-text-field .v-input__append-inner .v-input__icon{
+  display: none;
+}
+.search-address.search-disabled.v-text-field input{
+  display: none;
+}
+.search-address.search-disabled.v-text-field .v-select__selections {
+  padding-top: 6px;
+  padding-bottom: 6px;  
+  pointer-events: none;
+}
+.search-address.search-disabled.v-input--is-disabled:not(.v-input--is-readonly) {
+  pointer-events: all;
+}
+
+
+
+@media (min-width: 601px) {
+  .search-address.v-text-field input {
+    font-size: 22px;
+    font-family: Roboto;
+    padding-left: 8px;
+  }
+}
+
+
+.query-button {
+  background-color: #6500F0;
+}
+
+.query-button.v-btn--disabled {
+  background: rgba(0,0,0, 0.3);
+}
+
+.search-address.search-cnae .v-chip .v-chip__content  {
+  white-space: normal;
+  display: block; overflow: hidden; text-overflow: ellipsis;
+}
