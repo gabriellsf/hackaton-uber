@@ -8,7 +8,7 @@ import urllib.parse
 from datetime import datetime
 from elasticsearch import Elasticsearch
 
-#es = Elasticsearch(['https://6vi035crgt:w8no1zyb2i@meu-favorito-dashboa-543171073.ap-southeast-2.bonsaisearch.net:443'])
+#Conexão com banco ElasticSearch
 es = Elasticsearch(
     'meu-favorito-dashboa-543171073.ap-southeast-2.bonsaisearch.net',
     http_auth=('6vi035crgt', 'w8no1zyb2i'),
@@ -17,20 +17,24 @@ es = Elasticsearch(
     verify_certs=False 
 )
 
+#Conexão com banco MongoDB
 username = urllib.parse.quote_plus('root')
 password = urllib.parse.quote_plus('44KXC4kr2Jk8r3mV')
-
 client = MongoClient('mongodb://%s:%s@meu-favorito.sv.ufabcnext.com:15003/' % (username, password))
 db = client.uberhack
 
+#Rota Inicial
 @app.route('/')
 def hello():
     return  "Bem vindo a API MeuFavorito"
 
+#API para Listagem
 @app.route('/listar/<nome>/<empresa>')
 def buscarTodos(nome, empresa):
     return  jsonify(resultado=db[nome].find({"empresa": empresa}))
 
+#Endpoint GET para buscar favoritos de um cliente 
+#Endpoint POST para salvar favorito entre cliente e motorista
 @app.route('/favorites', methods=['GET','POST'])
 def favoritos():
     error = None 
@@ -57,7 +61,7 @@ def favoritos():
                 "foto" : req['foto'],
                 "motorista_empresa_id" : req['motorista_empresa_id'],
                 "empresa" : req['empresa'], 
-                "data_insercao" : datetime.timestamp(datetime.now())
+                "data_insercao" : datetime.now().isoformat()
             }
             motorista["mongo_id"] = motorista["_id"] 
             motoristas.insert_one(motorista)
@@ -73,7 +77,7 @@ def favoritos():
                 "nome" : req['nome_cliente'],
                 "cliente_empresa_id" : req['cliente_empresa_id'],
                 "empresa" : req['empresa'],
-                "data_insercao" : datetime.timestamp(datetime.now())
+                "data_insercao" : datetime.now().isoformat()
             }
             cliente["mongo_id"] = cliente["_id"] 
             clientes.insert_one(cliente)
@@ -85,7 +89,7 @@ def favoritos():
             "motorista" : motorista,
             "cliente" : cliente,
             "empresa" : req['empresa'],
-            "data_insercao" : datetime.timestamp(datetime.now())
+            "data_insercao" : datetime.now().isoformat()
         }
 
         favoritos = db.favorito
@@ -96,6 +100,7 @@ def favoritos():
 
     return jsonify(menssagem={"sucesso":"true"}) 
 
+#Agendamento de corridas com um favorito
 @app.route('/schedule', methods=['POST'])
 def agendar():
     req = request.json
@@ -115,7 +120,7 @@ def agendar():
         "long" : req['long'],
         "valor" : req['valor'],
         "datas" : req['datas'],
-        "data_insercao" : datetime.timestamp(datetime.now())
+        "data_insercao" : datetime.now().isoformat()
     }
 
     agendamento["mongo_id"] = agendamento["_id"]
@@ -125,12 +130,43 @@ def agendar():
 
     return jsonify(menssagem={"sucesso":"true"}) 
 
+## Mock da API da uber pois a mesma está com problemas de como confirmado pelo Engenheiro responsavel no evento
+## At 30 de Julho
 @app.route('/riders')
 def geraViagensRecentes():
     return {
-    
+        "id": "1",
+        "name": "Carlos Abreu",
+        "photo": 6.17,
+    },
+    {
+        "id": "2",
+        "name": "Roberto Ricardo",
+        "photo": 6.17,
+    },
+    {
+        "id": "3",
+        "name": "Giovanna Luz",
+        "photo": 6.17,
+    },
+    {
+        "id": "4",
+        "name": "Roberta Campos",
+        "photo": 6.17,
+    },
+    {
+        "id": "5",
+        "name": "Marcela Santos",
+        "photo": 6.17,
+    },
+    {
+        "id": "6",
+        "name": "Luana Freire",
+        "photo": 6.17,
     }
 
+## Mock da API da uber pois a mesma está com problemas de como confirmado pelo Engenheiro responsavel no evento
+## At 30 de Julho
 @app.route('/estimate/price')
 def geraEstimativa():
     return jsonify(resultado={"prices": [
