@@ -101,7 +101,7 @@ export default {
           driver: this.driver,
           initialPlace: this.initialPlace,
           finalPlace: this.finalPlace,
-          times: this.daysSelected,
+          daysSelected: this.daysSelected,
         }
       })
     },

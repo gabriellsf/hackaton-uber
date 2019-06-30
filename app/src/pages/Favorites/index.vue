@@ -89,8 +89,8 @@ export default {
         createdAt: new Date()
       },
       favorites: [
-        { nome: 'Valdir FASAF fas fsafa', foto: 'https://ait.bypronto.com/wp-content/uploads/sites/2404/2018/01/img-people-harsha-s-abeykoon.png', empresa: 'Uber', motorista_empresa_id: '12345678' },
-        { nome: 'Valdir', foto: 'https://ait.bypronto.com/wp-content/uploads/sites/2404/2018/01/img-people-harsha-s-abeykoon.png', empresa: 'Uber', motorista_empresa_id: '12345678' },
+        { nome: 'Cláudia Ferreira de Melo', foto: 'https://i.ibb.co/N1vKyqB/Captura-de-Tela-2019-06-30-a-s-10-56-02.pngw', empresa: 'Uber', motorista_empresa_id: '12345678' },
+        { nome: 'Fernando', foto: 'https://i.ibb.co/pJL1snv/Captura-de-Tela-2019-06-30-a-s-10-55-36.png', empresa: 'Uber', motorista_empresa_id: '12345678' },
       ],
 
       options: false 
@@ -114,10 +114,10 @@ export default {
         this.loading = false
       } catch(err) {
         this.loading = false
-        this.$message({
-          type: 'error',
-          message: ErrorMessage(err),
-        }) 
+        // this.$message({
+        //   type: 'error',
+        //   message: ErrorMessage(err),
+        // }) 
       }
     },
 
