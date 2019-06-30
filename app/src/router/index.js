@@ -3,9 +3,10 @@ import VueRouter from 'vue-router'
 
 // Pages
 import UberMock from '@/pages/UberMock'
-import LastRiders from '@/pages/LastRiders'
-import Fail from '@/pages/Fail'
-import CNAE from '@/pages/CNAE'
+import Favorites from '@/pages/Favorites'
+import Riders from '@/pages/Riders'
+import DriverProfile from '@/pages/DriverProfile'
+import Destination from '@/pages/Destination'
 
 Vue.use(VueRouter)
 const router = new VueRouter({
@@ -21,37 +22,46 @@ const router = new VueRouter({
     },
 
     {
-      name: 'last-riders',
-      path: '/last-riders',
-      component: LastRiders,
+      name: 'favorites',
+      path: '/favorites',
+      component: Favorites,
       meta: {
-        title: 'Últimas corridas',
+        title: 'Meus favoritos',
       },
     },
 
     {
-      name: 'fail',
-      path: '/error',
-      component: Fail,
+      name: 'riders',
+      path: '/riders',
+      component: Riders,
       meta: {
-        title: 'Ops! Área não encontrada',
+        title: 'Todas corridas',
+      },
+    },
+
+    {
+      name: 'driver-profile',
+      path: '/driver-profile',
+      component: DriverProfile,
+      meta: {
+        title: 'Meu Favorito',
       },
       props: true
     },
 
+
     {
-      name: 'cnae',
-      path: '/cnae',
-      component: CNAE,
+      name: 'destination',
+      path: '/destination',
+      component: Destination,
       meta: {
-        title: 'Defina o CNAEs',
+        title: 'Defina o destino',
       },
       props: true
     },
+
     // { path: '*', redirect: '/login' }
   ]
 })
-
-
 
 export default router

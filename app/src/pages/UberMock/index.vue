@@ -72,7 +72,7 @@ export default {
 
   methods: {
     open(){
-      this.$router.push({ name: 'last-riders' })
+      this.$router.push({ name: 'favorites' })
     }
   }
 }

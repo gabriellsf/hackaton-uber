@@ -35,7 +35,7 @@
         </div>
       </div>
 
-      <el-button class="pa-0" type="text" style="width: 100%; text-align: left; margin-top: 12px; margin-left: 36px;">Ver todas as corridas</el-button>
+      <el-button @click="$router.push({ name: 'riders' })" class="pa-0" type="text" style="width: 100%; text-align: left; margin-top: 12px; margin-left: 36px;">Ver todas as corridas</el-button>
 
       <div class="title-pattern" style="margin-top: 20px!important">
         Meus favoritos
@@ -78,7 +78,7 @@ import moment from 'moment'
 moment.locale('pt-BR')
 
 export default {
-  name: 'LastRiders',
+  name: 'Favorites',
 
   data() {
     return {
@@ -117,17 +117,9 @@ export default {
       this.loading = true
 
       try {
-        let res = await Axios.get('/favo')
+        let res = await Axios.get('/riders')
 
         this.loading = false
-        if(res.data){
-          this.history = res.data
-
-          this.history.map((h) => {
-            h.quad = h.year + ':' + h.quad
-            return h
-          })
-        }
       } catch(err) {
         this.loading = false
         this.$message({
@@ -139,7 +131,7 @@ export default {
 
     async favorite(driver) {
       this.loading = true
-      console.log(driver)
+
       try {
         let res = await Axios.post('/favorites', driver)
         
@@ -149,6 +141,10 @@ export default {
         })
         this.fetchLastRide()
       } catch(err) {
+        this.$router.push({ name: 'driver-profile', params: {
+          driver: driver
+        }})
+
         this.loading = false
         this.$message({
           type: 'error',
