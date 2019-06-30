@@ -1,6 +1,6 @@
-<center><img src="https://github.com/gabriellsf/hackaton-uber/blob/master/app/src/assets/logo.png" height="56" /><br />
+<div style="text-align: center;"><img src="https://github.com/gabriellsf/hackaton-uber/blob/master/app/src/assets/logo.png" height="56" /><br />
 <img src="https://github.com/gabriellsf/hackaton-uber/blob/master/demo-app.gif" />
-</center>
+</div>
 <br />
 
 # Meu Favorito - API + Interface Web/Mobile para fidelizar passageiros e motoristas
