@@ -34,7 +34,7 @@
             <v-icon :size="$vuetify.breakpoint.xsOnly ? '22' : '32'" v-else>search</v-icon>
           </div>
           <template v-slot:selection="data">
-            <div>
+            <div style="margin-top: 12px; margin-bottom: -12px">
               {{ data.item && data.item.description }}
             </div>
           </template>
@@ -73,7 +73,7 @@
              <v-icon :size="$vuetify.breakpoint.xsOnly ? '22' : '32'" v-else>search</v-icon>
           </div>
           <template v-slot:selection="data">
-            <div>
+            <div  style="margin-top: 12px; margin-bottom: -12px">
               {{ data.item && data.item.description }}
             </div>
           </template>
@@ -381,10 +381,10 @@ export default {
         }
       } catch(err) {
 
-        this.$message({
-          type: 'error',
-          message: ErrorMessage(err),
-        }) 
+        // this.$message({
+        //   type: 'error',
+        //   message: ErrorMessage(err),
+        // }) 
       }
     },
 
@@ -398,10 +398,10 @@ export default {
       } catch(err) {
         this.loadingSearchFinal = false
         this.loadingSearchInitial = false
-        this.$message({
-          type: 'error',
-          message: ErrorMessage(err),
-        }) 
+        // this.$message({
+        //   type: 'error',
+        //   message: ErrorMessage(err),
+        // }) 
       }
     },
 

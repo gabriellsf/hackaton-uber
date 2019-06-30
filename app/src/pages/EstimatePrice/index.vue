@@ -95,7 +95,7 @@ export default {
     },
 
     daysSelected: {
-      type: Object
+      type: Array
     }
   },
 
