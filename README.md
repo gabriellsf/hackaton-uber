@@ -5,7 +5,7 @@
 <br />
 
 # Meu Favorito - API + Interface Web/Mobile para fidelizar passageiros e motoristas
-
+Demo: https://meufavorito.netlify.com/
 O Meu Favorito é um serviço para fidelização de confiança para plataformas de aplicativo de solicitação de corridas.
 
 <img src="https://github.com/gabriellsf/hackaton-uber/blob/master/arquitetura.png" />
