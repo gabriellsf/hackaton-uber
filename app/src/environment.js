@@ -12,7 +12,7 @@ function APILocation() {
     return URL.replace(/:\d+.*/, ':5000')
   }
 
-  return 'http://meu-favorito-api.herokuapp.com/?client=' process.env.VUE_APP_UBER_USER_ID 
+  return 'http://meu-favorito-api.herokuapp.com/?client=' + process.env.VUE_APP_UBER_USER_ID
   // const parsedURL = url.parse(URL, false, true)
   // return urljoin(parsedURL.protocol, parsedURL.host, '')
 }
