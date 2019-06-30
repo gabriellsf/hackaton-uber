@@ -1,5 +1,5 @@
 <div style="text-align: center;"><img src="https://github.com/gabriellsf/hackaton-uber/blob/master/app/src/assets/logo.png" height="56" /><br />
-<img src="https://github.com/gabriellsf/hackaton-uber/blob/master/demo-app.gif" />
+<img style="float: right;" src="https://github.com/gabriellsf/hackaton-uber/blob/master/demo-app.gif" />
 </div>
 <br />
 
